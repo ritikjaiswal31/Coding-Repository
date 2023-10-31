@@ -1,4 +1,3 @@
-# LeetCode
 # LeetCode Practice Repository
 Welcome to my LeetCode practice repository! 🚀 This repository is dedicated to cataloging my solutions to various LeetCode problems, including daily challenges from the "Problem of the Day" series.
 
