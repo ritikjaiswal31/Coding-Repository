@@ -10,5 +10,5 @@ The repository is organized by problem difficulty and tagged with appropriate to
 # Problem of the Day
 In addition to my practice sessions, I'm committed to solving the daily challenges offered by LeetCode's "Problem of the Day." This section of the repository contains solutions and discussions specific to these daily challenges.
 
-# Thank you for visiting my LeetCode Repository. 
+# Thank You for visiting my LeetCode Repository. 
 Feel free to explore the solutions and engage in discussions. Happy Coding! 🌟
