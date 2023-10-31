@@ -1,6 +1,6 @@
 class Solution {
 public:
-    vector<int> findArray(vector<int>& pref) {
+    vector<int> findArray(vector<int>& pref) {    //originalArrayPrefix
         int n = pref.size();
         int pre_xor = 0;
         for(int i=1; i<n; i++){
