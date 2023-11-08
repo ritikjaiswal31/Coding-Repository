@@ -10,7 +10,7 @@ public:
     int reserve() {
         int x = pq.top();
         pq.pop();
-        return x;
+        return x;  
     }
     
     void unreserve(int seatNumber) {
