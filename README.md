@@ -1,5 +1,5 @@
-## LeetCode Practice Repository
-Welcome to my LeetCode Practice Repository! This repository is dedicated to cataloging my solutions to various LeetCode problems, including daily challenges from the "Problem of the Day" series.
+## Coding Repository
+Welcome to my Coding Repository! This repository is dedicated to cataloging my solutions to various LeetCode problems, including daily challenges from the "Problem of the Day" series.
 
 ## Purpose
 The primary aim of this repository is to track my journey of solving algorithmic problems on LeetCode. I aim to hone my problem-solving skills, improve my understanding of algorithms and data structures, and foster a collaborative environment where solutions can be shared and discussed.
