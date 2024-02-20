@@ -12,6 +12,5 @@ int main(){
     string str = "ritikjaiswal";
     reverseString(str);
     cout << "Reversed String is: " << str << endl;
-
     return 0;
 }
