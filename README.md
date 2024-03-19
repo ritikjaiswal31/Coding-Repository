@@ -1,4 +1,4 @@
-# Coding and LeetCode Problem of the Day
+# Coding Repository
 
 Welcome to the Coding and LeetCode Problem of the Day repository! Here, you'll find a collection of daily coding challenges and LeetCode problems to hone your programming skills and algorithmic problem-solving abilities.
 
