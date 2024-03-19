@@ -48,4 +48,4 @@ This repository is inspired by the desire to create a structured environment for
 
 ---
 
-Happy coding! 🚀
+Happy Coding!
